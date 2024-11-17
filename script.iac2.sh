@@ -11,7 +11,7 @@ echo "Baixando Aplicação"
 cd /temp
 wget https://github.com/Protti22/VNArg/archive/refs/heads/main.zip
 unzip main.zip
-cd linux-site-dio-main
+cd VNArg-main
 cp -R * /var/www/html/
 echo
 echo "Finalizando Processo..."
